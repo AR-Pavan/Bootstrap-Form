@@ -1,0 +1,39 @@
+form {
+    margin: 10px solid black;
+    border: 1px solid black;
+}
+
+.star:after {
+    content: " *";
+    color: red;
+}
+
+.checked {
+    color: orange;
+    width: 20px;
+    height: 20px;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 30px;
+}
+
+table td {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.heading {
+    width: 180px;
+    text-align: justify;
+}
+
+#tarea {
+    width: 100%;
+    height: 150px;
+}
+
+.submit {
+    background-color: grey;
+}
